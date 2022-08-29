@@ -1,0 +1,22 @@
+{
+  "etudiants": [
+    {
+      "id": 1,
+      "nom": "Nidabdellah",
+      "prenom": "Abdelhafid",
+      "licence": true
+    },
+    {
+      "id": 2,
+      "nom": "Mouket",
+      "prenom": "Fatima zahra",
+      "licence": true
+    },
+    {
+      "nom": "Barbach",
+      "prenom": "Imran",
+      "licence": false,
+      "id": 3
+    }
+  ]
+}
